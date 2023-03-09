@@ -1,0 +1,82 @@
+div#midSection {
+    width: 800px;
+    margin: auto;
+    overflow: auto;
+    margin-top: 10px;
+}
+div#contantSec {
+    width: 380px;
+    float: left;
+}
+#contantSec p a {
+    text-decoration: none;
+    color: orange;
+}
+#contantPara a {
+    text-decoration: none;
+    color: orange;
+    font-size: 12px;
+    float: right;
+}
+div#contantImg {
+    width: 380px;
+    float: right;
+}
+#contantImg img {
+    width: 370px;
+    border: 1px solid gray;
+    padding: 4px;
+}
+/* sectionParent */
+div#sectionParent {
+    background: #787474;
+    margin-top: 30px;
+}
+div#linkSection {
+    width: 800px;
+    margin: auto;
+    overflow: auto;
+}
+section {
+    width: 180px;
+    float: left;
+    margin-right: 25px;
+}
+section h3 {
+    font-size: 14px;
+}
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+section ul li {
+    line-height: 1.6;
+    border-bottom: 1px solid;
+}
+section ul li a {
+    text-decoration: none;
+    color: #f2cd04;
+    font-size: 10px;
+}
+section#lastScetion {
+    width: 180px;
+    float: right;
+    margin-right: 0;
+}
+div#footerScetion {
+    background: black;
+    color: white;
+}
+footer {
+    width: 800px;
+    margin: auto;
+    overflow: auto;
+}
+p#rightPara {
+    float: left;
+    font-size: 13px;
+}
+p#leftPara {
+    float: right;
+    font-size: 13px;
+}
