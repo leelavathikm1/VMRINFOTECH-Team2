@@ -80,3 +80,6 @@ p#leftPara {
     float: right;
     font-size: 13px;
 }
+ p:nth-child(3){
+    color: red;
+}
