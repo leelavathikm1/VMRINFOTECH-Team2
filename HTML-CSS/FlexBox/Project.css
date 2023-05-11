@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 13px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #919191;
+    background-color: #232323;
+}
+a{
+    text-decoration: none;
+}
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+div#header nav li a:hover {
+    color: #e15a17;
+    background-color: gray;
+}
+.row1, .row1 a {
+    color: #C0BAB6;
+    background-color: #333333;
+}
+header{
+    padding: 20px;
+    width: 900px;
+}
+header#header{
+    display: flex;
+    justify-content: space-between;
+}
+#header nav{
+    color: aquamarine;
+    margin: 10px 0 0 0;
+    padding: 20px 0;
+    background-color: #232323;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+.menu li {
+list-style-type: none;
+/* margin-right: 25px; */
+text-transform: uppercase;
+}
+
+
+
